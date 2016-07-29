@@ -22,6 +22,9 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
+  <project path="art" name="HazyTeam/platform_art" groups="pdk" remote="github" revision="hazy-mallow" />
+  <project path="bionic" name="HazyTeam/platform_bionic" groups="pdk" remote="github" revision="hazy-mallow" />
+  
   <!-- Hazy device -->
   <project path="device/huawei/angler" name="HazyTeam/device_huawei_angler" remote="github" revision="hazy-mallow" groups="device,angler,broadcom_pdk" />
   <project path="device/lge/bullhead" name="HazyTeam/device_lge_bullhead" remote="github" revision="hazy-mallow" groups="device,bullhead" />

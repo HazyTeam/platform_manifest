@@ -140,6 +140,7 @@
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" groups="pdk" remote="cm" revision="cm-13.0" />
   <project path="external/mm-dash" name="android_external_mm-dash" remote="cm" revision="cm-13.0" />
   <project path="external/stagefright-plugins" name="android_external_stagefright-plugins" remote="cm" revision="cm-13.0" />
+  <project path="external/stlport" name="android_external_stlport" remote="cm" revision="cm-13.0" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" remote="cm" revision="cm-13.0" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="cm" revision="cm-13.0" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" groups="pdk" remote="cm" revision="cm-13.0" />
